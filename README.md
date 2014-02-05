@@ -29,3 +29,7 @@ Un cordial saludo.
 
 
 El equipo técnico IDErioja
+<br />[www.iderioja.org](http://www.iderioja.org)
+<br />[twitter.com/iderioja](http://twitter.com/iderioja)
+
+
