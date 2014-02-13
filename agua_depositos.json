@@ -253,4 +253,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.79569,42.163906,0]},"properties":{"T125_ID":178867,"T125_NOMBRE":"260321101-BRIEVA DE CAMEROS","T125_CAPA_SIMPLE":"T011","T125_CAPA_SIMPLE_DENO":"Depósitos de Almacenamiento de Agua de Consumo Humano"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.618642,42.144739,0]},"properties":{"T125_ID":178868,"T125_NOMBRE":"261691101- DEPÓSITO DE ALDEANUEVA DE CAMEROS (VILLANUEVA DE CAMEROS)","T125_CAPA_SIMPLE":"T011","T125_CAPA_SIMPLE_DENO":"Depósitos de Almacenamiento de Agua de Consumo Humano"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.373041,42.174645,0]},"properties":{"T125_ID":178869,"T125_NOMBRE":"260042101-LARRIBA","T125_CAPA_SIMPLE":"T011","T125_CAPA_SIMPLE_DENO":"Depósitos de Almacenamiento de Agua de Consumo Humano"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.891885,42.539677,0]},"properties":{"T125_ID":1159816,"T125_NOMBRE":"DEPÓSITO NUEVO DE CASALARREINA","T125_CAPA_SIMPLE":"T011","T125_CAPA_SIMPLE_DENO":"Depósitos de Almacenamiento de Agua de Consumo Humano"}}
 ]}
