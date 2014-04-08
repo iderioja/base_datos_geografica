@@ -28,7 +28,13 @@ We hope that you find the information that we hereby deposit useful.
 
 Kind Regards,
 
-IDErioja Tecnical Team
+IDErioja Technical Team
 <br />[www.iderioja.org](http://www.iderioja.larioja.org/index.php?lang=en)
 <br />[twitter.com/iderioja](http://twitter.com/iderioja)
+
+
+
+``` 
+Translated by: Naiara Martínez
+```
 
