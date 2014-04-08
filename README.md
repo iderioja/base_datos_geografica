@@ -1,5 +1,6 @@
 ### [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)  [Base de Datos Geográfica del Gobierno de La Rioja](https://github.com/iderioja/base_datos_geografica)
 
+
 Logroño (España), 5 de febrero de 2014
 
 Hace unos meses, animados por la posibilidad que nos ofrecía GitHub de visualizar ficheros GeoJson en forma de mapas interactivos, nos planteamos aprovechar esta plataforma para distribuir nuestros datos geográficos.
