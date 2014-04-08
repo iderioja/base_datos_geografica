@@ -12,7 +12,7 @@ En estos meses hemos ido aprendiendo y desentrañando las posibilidades que nos 
 
 El reto final era claro: puesto que disponemos de una base de datos geográfica que diariamente recoge las aportaciones de muchos compañeros, repartidos en multitud de departamentos de nuestra administración, ¿por qué no intentar poner toda esta información al alcance de nuestros usuarios según se produce?.
 
-Las herramientas ETL de que disponemos nos ofrecían la oportunidad de automatizar la extracción y transformación de la información geográfica de nuestro repositorio y su volcado a GitHub.
+Las herramientas ETL de que disponemos nos ofrecen la oportunidad de automatizar la extracción y transformación de la información geográfica de nuestro repositorio y su volcado a GitHub.
 
 No ha sido una tearea fácil, ya que no hemos encontrado experiencias similares de las que aprender... pero finalmente hemos conseguido nuestro objetivo.
 
@@ -30,7 +30,7 @@ Esperamos que la información que aquí depositamos te resulte útil.
 Un cordial saludo.
 
 
-El equipo técnico IDErioja
+El Equipo Técnico IDErioja
 <br />[www.iderioja.org](http://www.iderioja.org)
 <br />[twitter.com/iderioja](http://twitter.com/iderioja)
 
