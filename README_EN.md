@@ -1,5 +1,5 @@
 ### [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)  [Geographic Database of the Government of La Rioja](https://github.com/iderioja/base_datos_geografica)
-[Spanish version](https://github.com/iderioja/base_datos_geografica/blob/master/README.md)
+[Versión en Español](https://github.com/iderioja/base_datos_geografica/blob/master/README.md)
 
 Logroño (Spain) February 5th, 2014
 
