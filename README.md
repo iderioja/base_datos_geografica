@@ -2,6 +2,8 @@
 
 [English version](https://github.com/iderioja/base_datos_geografica/blob/master/README_EN.md)
 
+![Alt text](https://zenodo.org/badge/doi/10.5281/zenodo.9840.png "DOI: 10.5281/zenodo.9840")
+
 Logroño (España), 5 de febrero de 2014
 
 Hace unos meses, animados por la posibilidad que nos ofrecía GitHub de visualizar ficheros GeoJson en forma de mapas interactivos, nos planteamos aprovechar esta plataforma para distribuir nuestros datos geográficos.
