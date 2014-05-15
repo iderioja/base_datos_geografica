@@ -1,6 +1,8 @@
 ### [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)  [Geographic Database of the Government of La Rioja](https://github.com/iderioja/base_datos_geografica)
 [Versión en Español](https://github.com/iderioja/base_datos_geografica/blob/master/README.md)
 
+![Alt text](https://zenodo.org/badge/doi/10.5281/zenodo.9840.png "DOI: 10.5281/zenodo.9840")
+
 Logroño (Spain) February 5th, 2014
 
 Several months ago, encouraged by the possibility that GitHub offered us to visualize GeoJson files in the form of interactive maps, we considered the possibility of using this platform to distribute our geographic data.
