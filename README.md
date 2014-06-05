@@ -16,7 +16,7 @@ El reto final era claro: puesto que disponemos de una base de datos geográfica 
 
 Las herramientas ETL de que disponemos nos ofrecen la oportunidad de automatizar la extracción y transformación de la información geográfica de nuestro repositorio y su volcado a GitHub.
 
-No ha sido una tearea fácil, ya que no hemos encontrado experiencias similares de las que aprender... pero finalmente hemos conseguido nuestro objetivo.
+No ha sido una tarea fácil, ya que no hemos encontrado experiencias similares de las que aprender... pero finalmente hemos conseguido nuestro objetivo.
 
 En este repositorio ya puedes encontrar distintas capas de información geográfica con el máximo grado de actualización. Del productor al consumidor en un tiempo récord.
 
