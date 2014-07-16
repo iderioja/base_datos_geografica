@@ -20,7 +20,7 @@ No ha sido una tarea fácil, ya que no hemos encontrado experiencias similares d
 
 En este repositorio ya puedes encontrar distintas capas de información geográfica con el máximo grado de actualización. Del productor al consumidor en un tiempo récord.
 
-Lamentablemente, las limitaciones que impone GitHub en cuanto al tamaño de los ficheros, nos impide ofrecerte la totalidad de la información, no obstante, te ofrecemos la oportunidad de acceder directamente a nuestra [Base de Datos Geográfica] (http://ias1.larioja.org/iderioja/ANONIMO_INSPIRE) y utilizar todas las herramientas de búsqueda, exportación y consulta que esta te ofrece.
+Lamentablemente, las limitaciones que impone GitHub en cuanto al tamaño de los ficheros, nos impide ofrecerte la totalidad de la información, no obstante, te ofrecemos la oportunidad de acceder directamente a nuestra [Base de Datos Geográfica] (http://ias1.larioja.org/iderioja/ANONIMO_INSPIRE) y utilizar todas las herramientas de búsqueda, exportación y consulta que ésta te ofrece.
 
 Somos de la opinión que todo trabajo es mejorable y por supuesto el nuestro también, así que agradecemos cualquier opinión, sugerencia o crítica que puedas hacer al respecto, que como siempre puedes dirigir a nuestro correo electrónico iderioja@larioja.org
 
@@ -34,6 +34,6 @@ Un cordial saludo.
 
 El Equipo Técnico IDErioja
 <br />[www.iderioja.org](http://www.iderioja.org)
-<br />[twitter.com/iderioja](http://twitter.com/iderioja)
+<br />[@iderioja](http://twitter.com/iderioja)
 
 
