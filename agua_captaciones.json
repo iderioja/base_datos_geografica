@@ -1,4 +1,4 @@
-{"name":"agua_captaciones.json","type":"FeatureCollection"
+{"nombre":"agua_captaciones.json","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.130847,42.211639,0]},"properties":{"T126_ID":"178871","T126_NOMBRE":"260181101- POZOS DE CIENTA ARNEDO","T126_CAPA_SIMPLE":"T010","T126_CAPA_SIMPLE_DENO":"Captaciones de Agua"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.115128,42.215705,0]},"properties":{"T126_ID":"178872","T126_NOMBRE":"260181102- YASA MOROS I ARNEDO","T126_CAPA_SIMPLE":"T010","T126_CAPA_SIMPLE_DENO":"Captaciones de Agua"}}
