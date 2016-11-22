@@ -89,3 +89,4 @@ IDERIOJA.IDE_TMT_REDGNSS_MVW;red_estaciones_gnss
 IDERIOJA.IDE_POLIG_INDUSTRIA_U89;poligonos_industriales
 IDERIOJA.IDE_TMT_SUBUNI_PAISAJE_MVW;unidades_paisaje
 IDERIOJA.IDE_TMT_C_VIVIENDA_VPO_MV;viviendas_protección_oficial
+IDERIOJA.IDE_RESIDUOS_CENTROS_AMON_U89;instalaciones_inicdencias_ambiental
