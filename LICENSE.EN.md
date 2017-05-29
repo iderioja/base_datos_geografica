@@ -1,22 +1,20 @@
 ## [![Icono](http://www.iderioja.larioja.org/imagenes/logo_iderioja_56x70.gif)](http://www.iderioja.org)  GOVERNMENT OF LA RIOJA (SPAIN)
-<div>
+
 <h3>IDERIOJA GEOGRAPHIC DATA LICENSE</h3>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-<br />
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
-Geographic data of the </span><a xmlns:cc="http://creativecommons.org/ns#" href="http://www.larioja.org" property="cc:attributionName"             rel="cc:attributionURL">Government of La Rioja (Spain)</a> (1)
-<br />
-distributed under 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>
-</span>
-<br />
-<p>(1) The use of geographic data produced by the Government of La Rioja, which has exclusive ownership and rights derived from it, comes under the terms of this license, as regulated by <a href="http://www.boe.es/boe/dias/2006/07/08/pdfs/A25561-25572.pdf">Law 23/2006 of July 7th, which modifies the consolidated version of the Intellectual Property Law</a>, approved by Royal Legislative Decree 1/1996 of April 12th.</p>
-<p>Under these rights, the Government of La Rioja distributes part of its geographical production through the Internet domain <a href="http://www.iderioja.org">http://www.iderioja.org</a>, its <a href="http://www.iderioja.larioja.org/index.php?id=14&lang=es">WMS/WFS/WCS services</a> and the public platform <a href="http://github.com/iderioja">GitHub</a>, regulating utilization and use of the material under conditions and terms hereof.</p>
-<p>Aerial photographs and orthophotos from 2004 or later, generated wihtin the National Plan of Aerial Orthophotography (PNOA) of Spain, and products derived from the photogrammetric flight of years 1956-1957, called "Flight of the Americans" are excluded from the scope of this license. The use of such material is governed by the terms established in the various collaboration agreements subscribed between the Government of La Rioja and the National Geographic Institute of Spain, so that their distribution is made under the <a href="http://centrodedescargas.cnig.es/CentroDescargas/cambiarMenu.do?destino=infoCondicionesLicencia">Terms of Non commercial Use License</a> set by the National Center for Geographic Information. Their use implies acceptance of those terms and making the mandatory reference to their owners.</p>
-</div>
+
+Geographic data of the [Government of La Rioja](http://www.larioja.org) (Spain)
+distributed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/legalcode)
+
+The use of geographic data produced by the Government of La Rioja, which has exclusive ownership and rights derived from it, comes under the terms of this license, as regulated by <a href="http://www.boe.es/boe/dias/2006/07/08/pdfs/A25561-25572.pdf">Law 23/2006 of July 7th, which modifies the consolidated version of the Intellectual Property Law</a>, approved by Royal Legislative Decree 1/1996 of April 12th.
+
+Under these rights, the Government of La Rioja distributes part of its geographical production through the Internet domain [http://www.iderioja.org](http://www.iderioja.org), its [WMS/WFS/WCS](http://www.iderioja.larioja.org/index.php?id=14&lang=es) services and the public platform [GitHub](http://github.com/iderioja), regulating utilization and use of the material under conditions and terms hereof.
+
+The products and services created under a collaboration agreement, within the [National Cartographic System](www.scne.es), are distributed according to what is established for each one of them.
+
 <hr />
-<div>
+
 <h3>Creative Commons Attribution 4.0 International Public License</h3>
 <p>
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract. You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</p>
