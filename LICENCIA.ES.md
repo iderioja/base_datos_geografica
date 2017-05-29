@@ -7,6 +7,7 @@
 Datos geográficos del [Gobierno de La Rioja](http://www.larioja.org) (España)
 
 distribuidos bajo [Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/legalcode)
+
 <br />
 Se acogen bajo los términos de uso de esta licencia los datos geográficos producidos por el Gobierno de La Rioja, a quien corresponde su titularidad exclusiva y los derechos derivados de esta, conforme a lo regulado por la <a href="http://www.boe.es/boe/dias/2006/07/08/pdfs/A25561-25572.pdf">Ley 23/2006, de 7 de julio, por la que se modifica el texto refundido de la Ley de Propiedad Intelectual</a>, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril.
 
