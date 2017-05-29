@@ -11,7 +11,7 @@ The use of geographic data produced by the Government of La Rioja, which has exc
 
 Under these rights, the Government of La Rioja distributes part of its geographical production through the Internet domain [http://www.iderioja.org](http://www.iderioja.org), its [WMS/WFS/WCS](http://www.iderioja.larioja.org/index.php?id=14&lang=es) services and the public platform [GitHub](http://github.com/iderioja), regulating utilization and use of the material under conditions and terms hereof.
 
-The products and services created under a collaboration agreement, within the [National Cartographic System](www.scne.es), are distributed according to what is established for each one of them.
+The products and services created under a collaboration agreement, within the [National Cartographic System](http://www.scne.es), are distributed according to what is established for each one of them.
 
 <hr />
 
